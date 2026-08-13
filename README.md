@@ -1,3 +1,5 @@
+
+
 # OSINT Assistant
 
 An AI-enhanced OSINT (Open Source Intelligence) tool for gathering, analyzing, and reporting on information from various web sources. This tool leverages the power of Perplexity AI to provide deeper insights and more accurate analysis.
@@ -18,7 +20,7 @@ This project includes both a command-line interface and a full-featured web appl
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - pip package manager
 - Node.js 14+ and npm (for web application)
 
@@ -267,4 +269,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-This tool is for educational and research purposes only. Always ensure you comply with relevant laws and regulations when conducting OSINT research. The authors are not responsible for any misuse of this tool. 
+This tool is for educational and research purposes only. Always ensure you comply with relevant laws and regulations when conducting OSINT research. The authors are not responsible for any misuse of this tool.
